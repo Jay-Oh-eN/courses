@@ -1,8 +1,6 @@
 = MSAN 662: Introduction to Data and Information Visualization
 Jonathan Dinu <https://github.com/Jay-Oh-eN[@clearspandex]>
 
-:description: USF Data Viz course
-
 |===
 | **Semester**: | Spring 2015 • Module II
 | **Lectures** | Tuesday, Thursday • 3:00pm – 4:50pm
@@ -38,7 +36,9 @@ You must have completed MSAN 501, 593, and 692 with a grade of C or better.
 * https://usfca.instructure.com/courses/1557793/external_tools/19368[Chat] will be on Canvas
 * Lectures will be recorded and added to the https://www.youtube.com/playlist?list=PLmetp36hFxezp8dxF0RxwOuS6owdadoqz[YouTube playlist]
 
-_All other materials will be on [Github] or https://www.quora.com/topic/Usf-data-viz2016[Quora]_
+////
+_All other materials will be on the jay-oh-en.github.io/courses/usf-datavis[course web page] or https://www.quora.com/topic/Usf-data-viz2016[Quora]_
+////
 
 == Materials
 
@@ -69,7 +69,7 @@ Lectures will consist of slide presentations, code demonstrations, discussions, 
 
 |===
 | 20% |	Participation
-| 30%  |	Homework
+| 30% (10% each) |	Homework (3 assignments)
 | 50%  |	Project
 |===
 
@@ -81,7 +81,7 @@ There will be several programming homework assignments, assigned on a weekly bas
 
 Homework will be submitted via a combination of GitHub and Canvas.
 
-There will be 4 homework assignments. For assignments 1 and 3 you will also need to submit a peer critique. For 2 and 4 (the final) you will give a 4minute presentation to the class.
+NOTE: There will be 4 homework assignments. For assignments 1 and 3 you will also need to submit a peer critique. For 2 and 4 (the final) you will give a 4minute presentation to the class.
 
 === Final Project
 
@@ -124,16 +124,19 @@ There will be weekly participation assignments. These may include contributing t
 
 Letter grades will be assigned according to the following (fixed) scale:
 
-A+	 ≥ 	97%
-A	 ≥ 	94%
-A–	 ≥ 	90%
-B+	 ≥ 	87%
-B	 ≥ 	84%
-B–	 ≥ 	80%
-C+	 ≥ 	77%
-C	 ≥ 	74%
-C–	 ≥ 	70%
-F	 < 	70%
+|===
+|A+	|  ≥ 	97%
+|A	 | ≥ 	94%
+|A–	|  ≥ 	90%
+|B+	|  ≥ 	87%
+|B	 | ≥ 	84%
+|B–	|  ≥ 	80%
+|C+	|  ≥ 	77%
+|C	 | ≥ 	74%
+|C–	|  ≥ 	70%
+|F	 | < 	70%
+|===
+
 For example, you will receive a C letter grade if your grade is greater than or equal to 74% and less than 77%. Please note this scale is subject to change.
 
 There is no D letter grade for graduate students. See the Graduate Student Regulations for more information about letter grades and how they are translated into GPA.
@@ -158,14 +161,17 @@ WARNING: Simply put, do not cheat and do not plagiarize. This includes copying c
 
 If you are a student with a disability or disabling condition, or if you think you may have a disability, please contact Student Disability Services (SDS) within the first week of class to speak with a disability specialist. If you are determined eligible for reasonable accommodations, your disability specialist will send your accommodation letter to the instructor detailing your needs for the course. For more information, please visit http://www.usfca.edu/sds or call (415) 422-2613.
 
+////
 == Resources
+////
 
 == Q&A
 
-.How to Ask a Question
-image::images/so.png["How to Ask a Question"]
+image::images/quora.png["Why Quora"]
 
-We will be using https://www.quora.com/[Quora] as our discussion forum under the topic https://www.quora.com/topic/Usf-data-viz2016[`Usf-data-viz2016`]. The reason for using Quora are two fold:
+We will be using https://www.quora.com/[Quora] as our discussion forum under the topic https://www.quora.com/topic/Usf-data-viz2016[`Usf-data-viz2016`]. The reason for using Quora is two fold:
 
 1. Encourage student's to collaboratively help each other.
 2. To engage the broader community to help with questions (and answers). This way anyone who comes along (now and in the future) can leverage the knowledge base that we develop over the course of the semester.
+
+If you do not have an account, it is easy and free to signup: https://www.quora.com/
