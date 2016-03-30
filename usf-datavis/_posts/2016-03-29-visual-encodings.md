@@ -5,7 +5,7 @@ content_type: lecture
 
 <table class="lecture-vid">
 <tr>
-<td><a href="slides/2016-03-29-visual-encodings.pdf"><img src="/usf-datavis/slides/thumbs/2016-03-29-visual-encodings.png" /></a></td><td> <iframe  src="https://www.youtube.com/embed/6k3ZDjqr844" frameborder="0" allowfullscreen></iframe></td>
+<td><a href="{{ site.baseurl }}usf-datavis/slides/2016-03-29-visual-encodings.pdf"><img src="{{ site.baseurl }}usf-datavis/slides/thumbs/2016-03-29-visual-encodings.png" /></a></td><td> <iframe  src="https://www.youtube.com/embed/6k3ZDjqr844" frameborder="0" allowfullscreen></iframe></td>
 </tr>
 </table>
 
