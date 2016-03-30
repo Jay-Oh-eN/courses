@@ -5,7 +5,7 @@ content_type: lecture
 
 <table class="lecture-vid">
 <tr>
-<td><a href="{{ site.baseurl }}usf-datavis/slides/2016-03-30-towards-reproducible-research.pdf"><img src="{{ site.baseurl }}usf-datavis/slides/thumbs/2016-03-30-towards-reproducible-research.png" /></a></td><td> <iframe  src="https://www.youtube.com/embed/6k3ZDjqr844" frameborder="0" allowfullscreen></iframe></td>
+<td><a href="{{ site.baseurl }}talks/slides/2016-03-30-towards-reproducible-research.pdf"><img src="{{ site.baseurl }}talks/slides/thumbs/2016-03-30-towards-reproducible-research.png" /></a></td><td> <iframe src="https://www.youtube.com/embed/videoseries?list=PLmetp36hFxezPSWF6hvFwKknocJxDieC4" frameborder="0" allowfullscreen></iframe></td>
 </tr>
 </table>
 
