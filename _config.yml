@@ -6,7 +6,7 @@
 name:               "Courses"
 
 # URL
-baseurl:            "/courses"
+baseurl:            "/courses/"
 #baseurl:            "" #For Root Domain
 permalink:          /:categories/:year/:title.html
 

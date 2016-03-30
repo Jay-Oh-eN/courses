@@ -176,7 +176,7 @@ If you are a student with a disability or disabling condition, or if you think y
 
 # Q&amp;A
 
-[![Piazza Site]({{ site.base_url }}/images/piazza.png)](https://www.piazza.com/)
+[![Piazza Site]({{ site.baseurl }} images/piazza.png)](https://www.piazza.com/)
 
 We will be using <a href="https://www.piazza.com/">Piazza</a> as our discussion forum for the following:
 
