@@ -61,6 +61,7 @@ defaults:
       path: "usf-datavis"
     values:
       course: "Introduction to Information and Data Visualization"
+      course_url: "usf-datavis/"
       nav:
         - name: "Syllabus"
           href: "/courses/usf-datavis/"
