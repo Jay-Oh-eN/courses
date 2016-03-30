@@ -63,9 +63,9 @@ defaults:
       course: "Introduction to Information and Data Visualization"
       nav:
         - name: "Syllabus"
-          href: "/usf-datavis/"
+          href: "usf-datavis/"
         - name: "Notes"
-          href: "/usf-datavis/notes/"
+          href: "usf-datavis/notes/"
         - name: "Videos"
           href: "//www.youtube.com/playlist?list=PLmetp36hFxezp8dxF0RxwOuS6owdadoqz"
         - name: "Piazza"
