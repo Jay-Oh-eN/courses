@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="content list">
+{% if site.courses == 0 %}
+  <h2>No post found</h2>
+{% else %}
+{% for course in site.courses %}
+  <div class="list-item">
+    <h2 class="list-post-title">
+      <a href="{{ site.baseurl }}{{ course.url }}">{{ course.title }}</a>
+    </h2>
+    <div class="list-post-date">
+      {{ course.institution }}・{{ course.number}}・<time>{{ course.term}} {{ course.year }}</time>
+    </div>
+  </div>
+{% endfor %}
+{% endif %}
+</div>

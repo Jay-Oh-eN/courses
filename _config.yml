@@ -1,0 +1,72 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               "Courses"
+
+# URL
+#baseurl:            "/"
+#baseurl:            "" #For Root Domain
+permalink:          /:categories/:year/:title.html
+
+# Markdown
+markdown:           kramdown
+
+kramdown:
+  input: GFM
+
+# Sass
+sass:
+  style:            :compressed
+
+courses:
+  - title: Introduction to Information and Data Visualization
+    url: usf-datavis
+    term: Spring
+    year: 2016
+    institution: USF
+    number: MSAN 622
+
+# Scopes
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      nav:
+        - name:           "About"
+          href:           "//hopelessoptimism.com/"
+        - name:           "Appearances"
+          href:           "//hopelessoptimism.com/in_person/"
+        - name:           "Portfolio"
+          href:           "//hopelessoptimism.com/portfolio/"
+        - name:           "CV"
+          href:           "//hopelessoptimism.com/static/personal/cv.pdf"
+
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path: "usf-datavis"
+    values:
+      course: "Introduction to Information and Data Visualization"
+      nav:
+        - name: "Syllabus"
+          href: "/usf-datavis"
+        - name: "Notes"
+          href: "/usf-datavis/notes"
+        - name: "Videos"
+          href: "//www.youtube.com/playlist?list=PLmetp36hFxezp8dxF0RxwOuS6owdadoqz"
+        - name: "Piazza"
+          href: "//piazza.com/usfca/spring2016/msan622/home"
