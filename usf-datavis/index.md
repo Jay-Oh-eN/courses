@@ -28,7 +28,7 @@ Please contact the instructor if you have any questions or concerns regarding th
 
 | Name | Email | Twitter | Office | Hours |
 |:--:|:--:|:--:|:--:|:--:|
-| [Jonathan Dinu](http://hopelessoptimism.com)| jondinu _at_ gmail | [@clearspandex](http://twitter.com/clearspandex) | Atrium | TBD |
+| [Jonathan Dinu](http://hopelessoptimism.com)| jondinu _at_ gmail | [@clearspandex](http://twitter.com/clearspandex) | Atrium | **Tu. 2-3pm** // **Th. 11am-1pm** |
 
 
 _If you are unable to make these office hours, please contact the instructor to setup an appointment._

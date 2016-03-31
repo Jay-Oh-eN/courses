@@ -9,6 +9,8 @@ content_type: lecture
 </tr>
 </table>
 
+[![]({{ site.baseurl }}usf-datavis/boards/2016-03-29-visual-encodings.jpg)]({{ site.baseurl }}usf-datavis/boards/2016-03-29-visual-encodings.jpg)
+
 ## Announcements
 
 ### Piazza
