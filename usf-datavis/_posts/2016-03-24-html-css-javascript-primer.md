@@ -3,7 +3,7 @@ title: HTML, CSS and Javascript Primer
 content_type: lab
 ---
 
-[![]({{ site.baseurl }}usf-datavis/slides/thumbs/2016-03-24-html-css-javascript-primer.png)]({{ site.baseurl }}usf-datavis/slides/2016-03-24-html-css-javascript-primer.pdf)
+[![]({{ site.baseurl }}/usf-datavis/slides/thumbs/2016-03-24-html-css-javascript-primer.png)]({{ site.baseurl }}/usf-datavis/slides/2016-03-24-html-css-javascript-primer.pdf)
 
 ## Announcements
 

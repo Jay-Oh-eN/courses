@@ -3,7 +3,7 @@ title: Introduction to the Course
 content_type: lecture
 ---
 
-[![]({{ site.baseurl }}usf-datavis/slides/thumbs/2016-03-22-introduction-to-the-course.png)]({{ site.baseurl }}usf-datavis/slides/2016-03-22-introduction-to-the-course.pdf)
+[![]({{ site.baseurl }}/usf-datavis/slides/thumbs/2016-03-22-introduction-to-the-course.png)]({{ site.baseurl }}/usf-datavis/slides/2016-03-22-introduction-to-the-course.pdf)
 
 ## Announcements
 

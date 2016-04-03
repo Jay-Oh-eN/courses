@@ -6,7 +6,7 @@
 name:               "Courses"
 
 # URL
-baseurl:            "/courses/"
+baseurl:            "/courses"
 #baseurl:            "" #For Root Domain
 permalink:          /:categories/:year/:title.html
 
@@ -16,13 +16,16 @@ markdown:           kramdown
 kramdown:
   input: GFM
 
+gems:
+  - jekyll-last-modified-at
+
 # Sass
 sass:
   style:            :compressed
 
 courses:
   - title: Introduction to Information and Data Visualization
-    url: usf-datavis
+    url: /usf-datavis/
     term: Spring
     year: 2016
     institution: USF
@@ -61,7 +64,7 @@ defaults:
       path: "usf-datavis"
     values:
       course: "Introduction to Information and Data Visualization"
-      course_url: "usf-datavis/"
+      course_url: "/usf-datavis/"
       nav:
         - name: "Syllabus"
           href: "/courses/usf-datavis/"
