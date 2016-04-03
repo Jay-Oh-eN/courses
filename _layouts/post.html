@@ -15,9 +15,7 @@ layout: default
       <time>{{ page.date | date_to_string }}</time>・{{ page.content_type }}
     </div>
     {{ content }}
-    {% if page.date | date_to_string != page.last_modified_at | date_to_string %}
-        <p>Updated {{ page.last_modified_at | date_to_string }}</p>
-    {% endif %}
+    
   </div>
 </div>
 
