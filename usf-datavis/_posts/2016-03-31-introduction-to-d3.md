@@ -20,6 +20,12 @@ content_type: lab
 * Lab sections: two (2-3:30 and 3:30-5) that rotate...
 * 👍 for websites on Github Pages.
 
+## Examples
+
+[![Simple Scatter]({{ site.baseurl }}/images/simple_scatter.png)](http://bl.ocks.org/Jay-Oh-eN/31946ab9b5f8575a6943)
+<a href="http://bl.ocks.org/Jay-Oh-eN/31946ab9b5f8575a6943" target="_blank">Open on bl.ocks</a>
+
+
 ## Resources
 
 ### D3 References
