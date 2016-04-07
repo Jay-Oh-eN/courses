@@ -1,59 +1,53 @@
 ---
 title: Choosing the Right Chart
 content_type: lecture
+board: 2016-04-05-choosing-the-right-chart
+youtube: https://youtu.be/eS-BvoXfnNw
+gist: de42e349df9267d9c4172928c9c3bae3
+raw: 12d75d0a67a0a45481a8af3595fbc9f5b837cda8
 ---
 
-<table class="lecture-vid">
-<tr>
-<td><a href="{{ site.baseurl }}/usf-datavis/slides/2016-03-29-visual-encodings.pdf"><img src="{{ site.baseurl }}/usf-datavis/slides/thumbs/2016-03-29-visual-encodings.png" /></a></td><td> <iframe  src="https://www.youtube.com/embed/6k3ZDjqr844" frameborder="0" allowfullscreen></iframe></td>
-</tr>
-</table>
+<iframe src="{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
 
-[![]({{ site.baseurl }}/usf-datavis/boards/2016-03-29-visual-encodings.jpg)]({{ site.baseurl }}/usf-datavis/boards/2016-03-29-visual-encodings.jpg)
+[![]({{ site.baseurl }}/usf-datavis/boards/{{ page.board }}.jpg)]({{ site.baseurl }}/usf-datavis/boards/{{ page.board }}.jpg)
 
 ## Announcements
 
-
-
-## Homework
-
-<script src="https://gist.github.com/Jay-Oh-eN/7162d19a90ff1db0ffdfdb6002ebfff6.js"></script>
+* Class [survey](https://piazza.com/class/imdvqxmpinm2kr?cid=10) on Piazza, fill out [this Google form](http://goo.gl/forms/rnU4HBe2JK).
+* Project 1 due ~Thursday~ Monday, updated with example of solution.
 
 ## Notes
 
-### Chart Types Slides (30 min)
+[![]({{ site.baseurl }}/usf-datavis/boards/2016-04-05-live-code.jpg)]({{ site.baseurl }}/usf-datavis/boards/2016-04-05-live-code.jpg)
 
-### Charts with D3 (30min)
+<iframe src="https://gist.githubusercontent.com/Jay-Oh-eN/9233f6d414461ea0046b/raw/f60a39215b0e2743f230ba7f176c1e8e3f5aa7a0/index.html" scrolling="no" style="width: 530px; height: 400px; border: solid 1px"></iframe>
+<a href="http://bl.ocks.org/Jay-Oh-eN/9233f6d414461ea0046b" target="_blank">Open on bl.ocks</a>
 
-* Loading External Data
-* AirBnB Bubble chart
-
-### Hands on Lab (30min)
-
-Take median rent and adapt it to a line chart.
-
-### Solution + Recap: Color Scales
-
-Create a multi color scatterplot + legend.
-
-<iframe src="http://cdn.rawgit.com/Jay-Oh-eN/9337d41b59b2bcee149004e811d5b266/raw/863cfb247a14fc65dd4967ff2126f650b8a0083d/index.html" scrolling="no" style="width: 530px; height: 400px; border: solid 1px"></iframe>
-<a href="http://bl.ocks.org/Jay-Oh-eN/9337d41b59b2bcee149004e811d5b266" target="_blank">Open on bl.ocks</a>
-
+<iframe src="http://cdn.rawgit.com/Jay-Oh-eN/{{ page.gist }}/raw/{{ page.raw }}/index.html" scrolling="no" style="width: 530px; height: 400px; border: solid 1px"></iframe>
+<a href="http://bl.ocks.org/Jay-Oh-eN/{{ page.gist }}" target="_blank">Open on bl.ocks</a>
 
 ## Resources
 
-### Examples
+### Tools
 
-* [Facebook Offfering](http://www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html)
+* [bl.ocks.org](http://bl.ocks.org/)
+* [Building Blocks](http://blockbuilder.org/)
+
+### Jon's Examples
+
+* [SF Rent: Line + Scatter](http://bl.ocks.org/Jay-Oh-eN/0277b6b53f599dfcd1f7)
+* [SF AirBnB: Stacked Bar Chart](http://bl.ocks.org/Jay-Oh-eN/f372f1555d1ab41dadd1)
+* [SF AirBnB: Legends](http://bl.ocks.org/Jay-Oh-eN/9337d41b59b2bcee149004e811d5b266)
 
 ### References
 
-* __UW (Jeff Heer)__ CSE 512: [Data and Image Models](http://courses.cs.washington.edu/courses/cse512/14wi/lectures/CSE512-DataAndImageModels.pdf)
-* __Tamara Munzner:__ [Visualization analysis and Design](https://www.cs.ubc.ca/~tmm/talks/minicourse14/vad15d3unconf.pdf)
-* __Ben Fry:__ [Computation Information Design](http://benfry.com/phd/)
-* [Graphical Perception Ranking](http://flowingdata.com/2010/03/20/graphical-perception-learn-the-fundamentals-first/)
-* __Elijiah Meeks:__ Gestalt Principles
-    * [Part 1](https://emeeks.github.io/gestaltdataviz/section1.html)
-    * [Part 2](https://emeeks.github.io/gestaltdataviz/section2.html)
-    * [Part 3](https://emeeks.github.io/gestaltdataviz/section3.html)
-    * [Part 4](https://emeeks.github.io/gestaltdataviz/section4.html)
+* [Chrome Debugger: Setting Breakpoints in Javascript](https://developer.chrome.com/devtools/docs/console#setting-breakpoints-in-javascript)
+* [Chrome Debugger: Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks)
+* [D3 Local Setup: Starting a Web server](http://chimera.labs.oreilly.com/books/1230000000345/ch04.html)
+* [D3 API Reference](https://github.com/mbostock/d3/wiki/API-Reference)
+* [Bar Chart](https://bl.ocks.org/mbostock/3885304)
+* [Multi-Series Line Chart](http://bl.ocks.org/mbostock/3884955)
+* [Margin Convention](http://bl.ocks.org/mbostock/3019563)
+* [Time Formatting](https://github.com/mbostock/d3/wiki/Time-Formatting)
+* [`nest` Function](http://bl.ocks.org/phoebebright/raw/3176159/)
+* [Categorical Color Scales](http://bl.ocks.org/aaizemberg/78bd3dade9593896a59d)
