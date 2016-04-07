@@ -19,6 +19,11 @@ content_type: lab
 
 ## Notes
 
+[![](http://r4ds.had.co.nz/images/visualization-grammar-3.png)](http://r4ds.had.co.nz/visualize.html)
+([source: Hadley Wickham](http://r4ds.had.co.nz/visualize.html))
+
+[Live coding Jupyter notebook](https://github.com/Jay-Oh-eN/courses/blob/gh-pages/notebooks/2016-04-07-grammar-of-graphics.ipynb)
+
 ## Exercise: Inside AirBnB
 
 For this lab's exercise we are going to answer a few questions about AirBnB listings to get a better understanding of how to perform EDA in Python. Spurred by [Prop F](https://ballotpedia.org/City_of_San_Francisco_Initiative_to_Restrict_Short-Term_Rentals,_Proposition_F_(November_2015)) in San Francisco, imagine you are the mayor of your respective city and need to decide what impact AirBnB has had on your own housing situation. We will use visualization to both better understand our own city and potentially communicate these findings to the public at large.
