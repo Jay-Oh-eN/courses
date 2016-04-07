@@ -8,7 +8,7 @@ raw: 12d75d0a67a0a45481a8af3595fbc9f5b837cda8
 ---
 
 <iframe src="https://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
-* [Developing with D3: Setup and External Data (Video Part 1)](https://youtu.be/eS-BvoXfnNw)
+* [D3 Setup and External Data (Video Part 1)](https://youtu.be/eS-BvoXfnNw)
 * [Bars to Circles (Video Part 2)](https://youtu.be/dccFXuxp_Cg)
 
 [![]({{ site.baseurl }}/usf-datavis/boards/{{ page.board }}.jpg)]({{ site.baseurl }}/usf-datavis/boards/{{ page.board }}.jpg)
