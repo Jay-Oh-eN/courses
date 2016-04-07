@@ -64,7 +64,7 @@ Lectures will consist of slide presentations, code demonstrations, discussions, 
 
 | Assignment | Weight |
 |--:|:--|
-| Participation  (and homework)| 20% |
+| Participation (and homework)| 20% |
 | 3 Projects | 30% (10% each) |
 | Final | 50% |
 
@@ -86,7 +86,7 @@ _Homework assignments will be assigned with [Github gists](https://help.github.c
 
 | Topic | Assigned | Due | Critique/<br>Presentation| Extra Credit |
 |:--|:--:|:--:|:--:|:--:|
-|1: [Basic Charts](2016/project-1.html)) |3/29|4/7|4/12| 4/19|
+|1: [Basic Charts](2016/project-1.html) |3/29|4/11 (9am)|4/12| 4/19|
 |2: Narrative ([animation](http://chimera.labs.oreilly.com/books/1230000000345/ch09.html) and [interaction](http://chimera.labs.oreilly.com/books/1230000000345/ch10.html))|4/5|4/14|4/14| 4/19|
 |3: Complex visual encodings ([layouts](https://github.com/mbostock/d3/wiki/Layouts))|4/14|4/26|4/28| NA |
 |**Final**: Extend Project 3 ([reusable](https://bost.ocks.org/mike/chart/) and [linked](https://flowingdata.com/2014/10/15/linked-small-multiples/) charts)| 4/26 | 5/12 | 5/12 | NA|
