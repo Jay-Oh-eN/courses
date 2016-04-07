@@ -2,12 +2,12 @@
 title: Choosing the Right Chart
 content_type: lecture
 board: 2016-04-05-choosing-the-right-chart
-youtube: https://youtu.be/eS-BvoXfnNw
+youtube: eS-BvoXfnNw
 gist: de42e349df9267d9c4172928c9c3bae3
 raw: 12d75d0a67a0a45481a8af3595fbc9f5b837cda8
 ---
 
-<iframe src="{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
 
 [![]({{ site.baseurl }}/usf-datavis/boards/{{ page.board }}.jpg)]({{ site.baseurl }}/usf-datavis/boards/{{ page.board }}.jpg)
 
@@ -20,7 +20,7 @@ raw: 12d75d0a67a0a45481a8af3595fbc9f5b837cda8
 
 [![]({{ site.baseurl }}/usf-datavis/boards/2016-04-05-live-code.jpg)]({{ site.baseurl }}/usf-datavis/boards/2016-04-05-live-code.jpg)
 
-<iframe src="https://gist.githubusercontent.com/Jay-Oh-eN/9233f6d414461ea0046b/raw/f60a39215b0e2743f230ba7f176c1e8e3f5aa7a0/index.html" scrolling="no" style="width: 530px; height: 400px; border: solid 1px"></iframe>
+<iframe src="http://cdn.rawgit.com/Jay-Oh-eN/9233f6d414461ea0046b/raw/f60a39215b0e2743f230ba7f176c1e8e3f5aa7a0/index.html" scrolling="no" style="width: 530px; height: 400px; border: solid 1px"></iframe>
 <a href="http://bl.ocks.org/Jay-Oh-eN/9233f6d414461ea0046b" target="_blank">Open on bl.ocks</a>
 
 <iframe src="http://cdn.rawgit.com/Jay-Oh-eN/{{ page.gist }}/raw/{{ page.raw }}/index.html" scrolling="no" style="width: 530px; height: 400px; border: solid 1px"></iframe>
