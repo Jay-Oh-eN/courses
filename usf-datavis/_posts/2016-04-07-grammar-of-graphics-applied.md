@@ -1,13 +1,11 @@
 ---
 title: Grammar of Graphics Applied
 content_type: lab
-boards: ["2016-04-07-gog.jpg", "2016-04-07-polar-area.jpg"]
+boards: ["2016-04-07-gog", "2016-04-07-polar-area"]
 youtube: eS-BvoXfnNw
 ---
 
 <iframe src="https://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
-* [D3 Setup and External Data (Video Part 1)](https://youtu.be/eS-BvoXfnNw)
-* [Bars to Circles (Video Part 2)](https://youtu.be/dccFXuxp_Cg)
 
 {% for board in page.boards %}
     [![]({{ site.baseurl }}/usf-datavis/boards/{{ board }}.jpg)]({{ site.baseurl }}/usf-datavis/boards/{{ board }}.jpg)
@@ -73,7 +71,7 @@ youtube: eS-BvoXfnNw
     * coordinate system
     * Faceting
 
-#### Examples (10min)
+#### Examples
 
 * Python Libraries
     * Lightning-Viz (we will come back to this)
@@ -97,7 +95,7 @@ ggplot(data = diamonds, mapping = aes(price)) +
 
 ### Poll: Which chart is best?
 
-### Exploratory vs. Explanatory (5min)
+### Exploratory vs. Explanatory
 
 * Which tools are best for each?
 
@@ -118,7 +116,6 @@ ggplot(data = diamonds, mapping = aes(price)) +
 #### Explanatory
 
 * Optimize for communication efficiency (time to interpretation)
-
 * Custom, flexible, and interactive visual representations
     * single chart, takes days
 * multiple reader problem
@@ -128,7 +125,6 @@ ggplot(data = diamonds, mapping = aes(price)) +
     * author driven (next week)
     * don't have context you have
 * distillation
-
 * many reader and novice problem
     * interactivity
     * drill down to "teach"
@@ -188,16 +184,17 @@ Each pair will work with a different cities data:
 5. What impact would a Prof F like policy have on your city? 
 
  > Prop F would have removed all listings that are the `Entire Home` and available for more than 75 days per year
+
 6. What would AirBnB's revenue loss have been from a passing of Prop F? Calculate revenue from the `reviews_per_month`, `availability_365`, and `price` for each listing.
 
 #### Advanced plots with `seaborn`
 
 5. Make a violin plot of the price distribution of each neighborhood. If your city has a large number of neighborhoods plot the 10 with the most listing.
- * https://stanford.edu/~mwaskom/software/seaborn/examples/simple_violinplots.html
+ * [Seaborn: Violinplots](https://stanford.edu/~mwaskom/software/seaborn/examples/simple_violinplots.html)
 6. To find potential features that correlate with the price, make a facet grid of linear regressions (price will always be the dependent variable).
- * https://stanford.edu/~mwaskom/software/seaborn/examples/anscombes_quartet.html
- * https://stanford.edu/~mwaskom/software/seaborn/examples/logistic_regression.html
- * https://stanford.edu/~mwaskom/software/seaborn/examples/multiple_regression.html
+ * [Seaborn: Anscombe's Quartet Regression](https://stanford.edu/~mwaskom/software/seaborn/examples/anscombes_quartet.html)
+ * [Seaborn: Logistic Regression](https://stanford.edu/~mwaskom/software/seaborn/examples/logistic_regression.html)
+ * [Seaborn: Multiple Regression](https://stanford.edu/~mwaskom/software/seaborn/examples/multiple_regression.html)
 
 ### Extra Credit
 
