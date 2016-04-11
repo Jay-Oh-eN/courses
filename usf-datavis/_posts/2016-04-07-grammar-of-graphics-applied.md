@@ -8,7 +8,7 @@ youtube: eS-BvoXfnNw
 <iframe src="https://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
 
 {% for board in page.boards %}
-    [![]({{ site.baseurl }}/usf-datavis/boards/{{ board }}.jpg)]({{ site.baseurl }}/usf-datavis/boards/{{ board }}.jpg)
+[![]({{ site.baseurl }}/usf-datavis/boards/{{ board }}.jpg)]({{ site.baseurl }}/usf-datavis/boards/{{ board }}.jpg)
 {% endfor %}
 
 ## Announcements
@@ -49,7 +49,7 @@ youtube: eS-BvoXfnNw
 * Leland Wilkinson ([Grammar of Graphics](http://www.springer.com/us/book/9780387245447): 1999)
 * Hadley Wickham ([A Layered Grammar of Graphics](http://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf): 2010)
 
-### GoG Applied (~15 min)
+### GoG Applied
 
 > On the spectrum between visual encodings and chart types
 
