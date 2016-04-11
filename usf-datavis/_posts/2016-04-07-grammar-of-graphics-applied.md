@@ -78,8 +78,9 @@ youtube: eS-BvoXfnNw
     * Bokeh (powerful but complex)
     * bqplot (just the right abstraction, but a little beta)
 
-```
+```sh
 pip install bokeh # conda install bokeh
+
 python -c "import bokeh.sampledata; bokeh.sampledata.download()"
 ```
 
