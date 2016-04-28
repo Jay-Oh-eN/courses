@@ -88,8 +88,8 @@ _Homework assignments will be assigned with [Github gists](https://help.github.c
 |:--|:--:|:--:|:--:|:--:|
 |1: [Basic Charts](2016/project-1.html) |3/29|4/11 (9am)|4/12 (3pm)| 4/19|
 |2: Narrative ([animation](http://chimera.labs.oreilly.com/books/1230000000345/ch09.html) and [interaction](http://chimera.labs.oreilly.com/books/1230000000345/ch10.html))|4/5|4/14|4/14| 4/19|
-|3: Complex visual encodings ([layouts](https://github.com/mbostock/d3/wiki/Layouts))|4/14|4/26|4/28| NA |
-|**Final**: Extend Project 3 ([reusable](https://bost.ocks.org/mike/chart/) and [linked](https://flowingdata.com/2014/10/15/linked-small-multiples/) charts)| 4/26 | 5/12 | 5/12 | NA|
+|3: Maps! |4/26|5/3|5/5| NA |
+|**Final**: Extend Project 3 ([reusable](https://bost.ocks.org/mike/chart/) and [linked](https://flowingdata.com/2014/10/15/linked-small-multiples/) charts)| 4/28 | 5/12 | 5/12 | NA|
 
 There will be 3 projects assigned through the course which will be graded on a point scale (rather than pass/fail). Each project is worth __10% of your grade__ and will have its own rubric for success.
 
